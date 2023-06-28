@@ -1,2 +1,2 @@
 # Number-Guessing-game-
-Numaber gussing game 
+Number gussing game 
